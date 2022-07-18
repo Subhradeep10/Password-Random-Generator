@@ -1,0 +1,19 @@
+{
+  "name": "generate-random-password",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Subhradeep10/Generate-Random-Password.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Subhradeep10/Generate-Random-Password/issues"
+  },
+  "homepage": "https://github.com/Subhradeep10/Generate-Random-Password#readme"
+}
