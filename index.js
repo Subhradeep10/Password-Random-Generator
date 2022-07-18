@@ -1,4 +1,4 @@
-function generaterandompassword(length) {
+function passwordrandomgenerate(length) {
     var result = '';
     var characters = '12345678!@#$%^&*()_+=-ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
     var charactersLength = characters.length;
@@ -9,4 +9,4 @@ function generaterandompassword(length) {
     return result;
 }
 
-module.exports = generaterandompassword;
+module.exports = passwordrandomgenerate;
