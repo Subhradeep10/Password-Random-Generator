@@ -9,5 +9,5 @@
 ```bash
    const password = require('@subhradeep07/generate-random-password')
 
-   console.log(password(10)); //This will give you a random password of 10 alphanumeric characters
+   console.log(password(n)); //This will give you a random password of n alphanumeric characters
 ```
