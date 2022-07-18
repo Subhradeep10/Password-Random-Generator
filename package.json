@@ -1,5 +1,5 @@
 {
-  "name": "generate-random-password",
+  "name": "@subhradeep07/generate-random-password",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Subhradeep10/Generate-Random-Password/issues"
   },
-  "homepage": "https://github.com/Subhradeep10/Generate-Random-Password#readme"
+  "homepage": "https://github.com/Subhradeep10/Generate-Random-Password#readme",
+  "dependencies": {
+    "@subhradeep07/generate-random-password": "^1.0.0"
+  }
 }
