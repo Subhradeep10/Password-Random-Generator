@@ -11,4 +11,3 @@
 
    console.log(password(n)); //This will give you a random password of n alphanumeric characters
 ```
-
